@@ -1,2 +1,2 @@
 # ReporDigital
-Live at mucholab.net/migrantes/platillas
+Live  <a href="http://www.mucholab.net/migrantes/plantilla" rel="nofollow">here</a>
